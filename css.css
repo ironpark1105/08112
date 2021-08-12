@@ -1,0 +1,14 @@
+.container{
+    height: 600px;
+    background-color: cyan;
+    display: flex;
+}
+.container div{
+    width: 150px;
+    margin: 15px;
+    background-color: chocolate;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    line-height: 150px;
+}
